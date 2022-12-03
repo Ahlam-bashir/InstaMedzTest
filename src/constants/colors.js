@@ -1,0 +1,14 @@
+//Colors
+export const colors = {
+  PRIMARY: '#E2006A',
+  PRIMARY_LIGHT: '#EED2DF',
+  WHITE: '#F7F8FB',
+  LIGHT_WHITE: '#F1F4F8',
+  GRAY: '#CBD2E1',
+  LIGHT_BLUE: '#A4B8D3',
+  DARK_BLUE: '#4F6C92',
+  BLUE: '#004FB4',
+  GREEN: '#16A64D',
+  GREEN_LIGHT: '#55CB82',
+  OFF_GREEN: '#CAEFD8',
+};
